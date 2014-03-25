@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "myte"
+        }, 
+        "myte": {
+            "applicationId": "I6s7DAsWtsGKuQfXoFFWdxIH0sWlExyq6PrQtJ57", 
+            "masterKey": "effeDvi0dzgUZ0ETs1VQZpmCgBXFTyZwRkFEtqqh"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
